@@ -92,3 +92,19 @@ nav {
     box-shadow: inset 0 0 10px #000000;
 }
 /*-- Navigation CSS End -- */
+
+/*-- CSS Footer -- */
+.footerSection {
+    background-color: #808080;
+    height: 50px;
+    box-shadow: inset 0 0 10px #000000;
+}
+
+.copy {
+    text-align: center;
+    list-style-type: none;
+    position: relative;
+    top: 10px;
+    font-weight: 500;
+    font-size: 17px;
+}
