@@ -55,6 +55,9 @@ img.profilePic {
     height: 18 0px;
     width: 24%;
     margin-top: 10px;
+    position: relative;
+    left: 25px;
+    right: 0.50px;
 }
 
 .projectImage {
@@ -62,6 +65,7 @@ img.profilePic {
     width: 284px;
     position: relative;
     bottom: 0.5px;
+    right: 0.5px;
 }
 
 .projectTitle {
@@ -72,6 +76,13 @@ img.profilePic {
 
 .projectDescription {
     text-align: center;
+}
+
+.liveDemo {
+    border: none;
+    position: relative;
+    left: 10px;
+    margin-bottom: 15px;
 }
 /*-- Portfolio Page CSS End --*/
 
