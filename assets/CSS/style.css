@@ -60,6 +60,27 @@ img.profilePic {
     right: 0.50px;
 }
 
+.portfolioCard2 {
+    border: solid 5px;
+    height: 18 0px;
+    width: 31%;
+    margin-top: 35px;
+    position: relative;
+    left: 37%;
+    top: -374px;
+}
+
+.portfolioCard3 {
+    border: solid 5px;
+    height: 18 0px;
+    width: 31%;
+    margin-top: 35px;
+    position: relative;
+    left: 72%;
+    bottom: 747px;
+    margin-left: 10px;
+}
+
 .projectImage {
     height: 153px;
     width: 369.5px;
